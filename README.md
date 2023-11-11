@@ -1,2 +1,2 @@
 # hello-world
-This is the beginning of my collection of resources 
+This is the beginning of a collection of resources 
